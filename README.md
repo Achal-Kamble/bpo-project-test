@@ -49,6 +49,7 @@ The `npm test` command runs the build first and then checks that the generated `
     d. crate image
     e. push docker image to DockerHub
 7. DockerHUB account for docker image storage
+8. push all code to github repository using git commands use in your turminal
 8. Create Kubernetes cluster
 9. install argocd
 10. deploy application on k8s
