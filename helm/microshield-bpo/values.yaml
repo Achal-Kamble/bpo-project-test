@@ -5,7 +5,7 @@ namespace:
 replicaCount: 2
 
 image:
-  repository: microshield-bpo-site
+  repository: achalkamble/microshield-bpo-site
   tag: latest
   pullPolicy: IfNotPresent
 
