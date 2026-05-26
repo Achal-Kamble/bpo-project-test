@@ -12,7 +12,7 @@ on:
       - master
 
 env:
-  IMAGE_NAME: microshield-bpo-site
+  IMAGE_NAME: achalkamble/microshield-bpo-site
 
 jobs:
   build-test-and-push:
